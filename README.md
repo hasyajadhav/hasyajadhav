@@ -49,7 +49,7 @@ Effictively used Literature databases to find all relevant databases and tools
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/feed/
+- LinkedIn: https:https://www.linkedin.com/in/hasya-jadhav-917710306/
 - Email: jadhavhasya1@gmail.com  
 
 ---
